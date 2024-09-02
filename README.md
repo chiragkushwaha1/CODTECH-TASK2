@@ -25,7 +25,7 @@ Features:
 4. Temperature Unit Conversion: Switch between Celsius and Fahrenheit.
 5. Weather Icons: Displays relevant weather icons.
 
-6. Technologies:
+   Technologies:
 
 - HTML5
 - CSS3
